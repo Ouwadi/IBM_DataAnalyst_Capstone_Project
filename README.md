@@ -8,3 +8,7 @@ You have recently been hired as a Data Analyst by a global IT and business consu
 Once you have collected enough data, you will begin analyzing the data and identify insights and trends that may include the following: What are the top programming languages in demand? What are the top database skills in demand? What are the popular IDEs?
 
 You will begin by scraping internet web sites and accessing APIs to collect data in various formats like .csv files, excel sheets, and databases. Once this is completed, you will make that data ready for analysis using data wrangling techniques. When the data is ready you will then want to apply statistical techniques to analyze the data. Then bring all of your information together by using IBM Cognos Analytics to create your dashboard. And finally, show off your storytelling skills by sharing your findings in a presentation. You will be evaluated using quizzes in each module as well as the final project presentation.
+
+
+## Link to my Cognos Dashboard 
+https://eu-gb.dataplatform.cloud.ibm.com/dashboards/eacb94b6-0317-496c-b51b-a3731aedc7f4/view/6629f736639b129360e7b1e407cf7e01293e250eb5bb8402d3d17b4959317997a86f16c3c82c435889430767f3e4475f9a
